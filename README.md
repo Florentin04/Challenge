@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # LOCAL
 
-Voici la derniere quete
+=======
